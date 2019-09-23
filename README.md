@@ -1,12 +1,13 @@
 # JAMstack-Workshop
 
-Author: Sarah Drasner
+This repo houses the materials and resources for the JAMstack workshop using Vue and Netlify. This course assumes some familiarity with Vue.js.
 
-This repo houses the materials and resources for the JAMstack workshop using Vue and Netlify.
+Author: Sarah Drasner
 
 ## Sections
 
-- Intro:
+- Intro: JAMstack-intro.pdf
+- Deploys
 
 ## Twitter Contact Info
 
