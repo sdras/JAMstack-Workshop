@@ -7,7 +7,9 @@ Author: Sarah Drasner
 ## Sections
 
 - Intro: JAMstack-intro.pdf
-- Deploys
+- Class intros
+- Deploys:
+
 
 ## Twitter Contact Info
 
