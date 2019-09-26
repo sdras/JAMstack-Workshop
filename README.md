@@ -6,10 +6,15 @@ Author: Sarah Drasner
 
 ## Sections
 
-- What is JAMstack?: JAMstack-intro.pdf
+- Section 1: Intro, What is JAMstack?: JAMstack-intro.pdf in this repo
 - Class intros
-- Deploys: https://slides.com/sdrasner/jamstack-netlify-2/
-- Functions: https://slides.com/sdrasner/jamstack-netlify-3/
+- [Section 2: Deploys](https://slides.com/sdrasner/jamstack-netlify-2/)
+- [Section 3: Functions](https://slides.com/sdrasner/jamstack-netlify-3/)
+- [Section 4: Identity](https://slides.com/sdrasner/jamstack-netlify-4/)
+
+## External resources
+
+- https://github.com/sdras/ecommerce-netlify
 
 ## Twitter Contact Info
 
