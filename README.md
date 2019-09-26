@@ -9,7 +9,7 @@ Author: Sarah Drasner
 - What is JAMstack?: JAMstack-intro.pdf
 - Class intros
 - Deploys: https://slides.com/sdrasner/jamstack-netlify-2/
-- Functions:
+- Functions: https://slides.com/sdrasner/jamstack-netlify-3/
 
 ## Twitter Contact Info
 
