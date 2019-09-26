@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Playing with sound and three.js</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="container"></div>
+
+<button id="start">start</button>
+
+<script type="x-shader/x-vertex" id="vertexshader">
+  uniform float amplitude;
+  attribute vec3 customColor;
+  attribute vec3 displacement;
+  varying vec3 vNormal;
+  varying vec3 vColor;
+  void main() {
+    vNormal = normal;
+    vColor = customColor;
+    vec3 newPosition = position + normal * amplitude * displacement;
+    gl_Position = projectionMatrix * modelViewMatrix * vec4( newPosition, 1.0 );
+  }
+</script>
+
+<script type="x-shader/x-fragment" id="fragmentshader">
+  varying vec3 vNormal;
+  varying vec3 vColor;
+  void main() {
+    const float ambient = 0.6;
+    vec3 light = vec3( 1.0 );
+    light = normalize( light );
+    float directional = max( dot( vNormal, light ), 0.0 );
+    gl_FragColor = vec4( ( directional + ambient ) * vColor, 1.0 );
+  }
+</script>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.min.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/TessellateModifier.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/TrackballControls.js'></script>
+<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/OrbitControls.js'></script>
+<script  src="./script.js"></script>
+
+</body>
+</html>
