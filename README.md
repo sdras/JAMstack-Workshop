@@ -6,10 +6,10 @@ Author: Sarah Drasner
 
 ## Sections
 
-- Intro: JAMstack-intro.pdf
+- What is JAMstack?: JAMstack-intro.pdf
 - Class intros
-- Deploys:
-
+- Deploys: https://slides.com/sdrasner/jamstack-netlify-2/
+- Functions:
 
 ## Twitter Contact Info
 
