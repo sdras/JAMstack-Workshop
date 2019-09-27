@@ -1,6 +1,6 @@
 # JAMstack Netlify Workshop
 
-This repo houses the materials and resources for the JAMstack workshop using Vue and Netlify. This course assumes some familiarity with Vue.js.
+This repo houses the materials and resources for the JAMstack workshop using Vue and Netlify. This course assumes some familiarity with Vue.js. I use my own [vue-vs-code-snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) in this course.
 
 Author: Sarah Drasner
 
