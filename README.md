@@ -1,4 +1,4 @@
-# JAMstack-Workshop
+# JAMstack Netlify Workshop
 
 This repo houses the materials and resources for the JAMstack workshop using Vue and Netlify. This course assumes some familiarity with Vue.js.
 
@@ -8,6 +8,8 @@ Author: Sarah Drasner
 
 - [Section 1: Intro, State of the JAMstack Nation](https://github.com/sdras/JAMstack-Workshop/blob/master/jamstack-intro.pdf)
 - [Section 2: Deploys](https://slides.com/sdrasner/jamstack-netlify-2/)
+  - [Docs: Manual Deploys](https://url.netlify.com/S1htkzovH)
+  - [Docs: Locked Deploys](https://url.netlify.com/SJJlgMiPr)
 - [Section 3: Functions](https://slides.com/sdrasner/jamstack-netlify-3/)
 - [Section 4: Identity](https://slides.com/sdrasner/jamstack-netlify-4/)
 
@@ -18,6 +20,7 @@ Author: Sarah Drasner
 ## External resources
 
 - [https://github.com/sdras/ecommerce-netlify](https://github.com/sdras/ecommerce-netlify)
+- [https://github.com/sdras/easiest-netlify-lambda-example](https://github.com/sdras/easiest-netlify-lambda-example)
 
 ## Twitter Contact Info
 
