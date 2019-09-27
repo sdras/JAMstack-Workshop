@@ -10,7 +10,9 @@ Author: Sarah Drasner
 - [Section 2: Deploys](https://slides.com/sdrasner/jamstack-netlify-2/)
   - [Docs: Manual Deploys](https://url.netlify.com/S1htkzovH)
   - [Docs: Locked Deploys](https://url.netlify.com/SJJlgMiPr)
+  - [Docs: Rollbacks](https://url.netlify.com/ry-qgMsvB)
 - [Section 3: Functions](https://slides.com/sdrasner/jamstack-netlify-3/)
+  - [Docs: Functions](https://url.netlify.com/B1cAxMovB)
 - [Section 4: Identity](https://slides.com/sdrasner/jamstack-netlify-4/)
 
 ## Resources in this repo
