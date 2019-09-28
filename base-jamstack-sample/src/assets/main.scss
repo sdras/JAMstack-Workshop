@@ -1,0 +1,27 @@
+$bkcolor: #111;
+$fontcolor: #ccc;
+$linkcolor: #fff;
+
+body {
+  background: $bkcolor;
+  color: $fontcolor;
+  line-height: 1.4;
+}
+
+a,
+a:active,
+a:visited {
+  color: $linkcolor;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap; /* added line */
+}
