@@ -2,6 +2,7 @@ $bkcolor: #111;
 $fontcolor: #ccc;
 $linkcolor: #fff;
 $accentColor: orange;
+$borderRadius: 4px;
 
 body {
   background: $bkcolor;
@@ -31,13 +32,14 @@ a:visited {
 form {
   width: 90%;
   max-width: 600px;
-  margin: 40px auto;
+  margin: 100px auto;
   input,
   textarea {
     width: 100%;
     border: 1px solid #555;
     background: #333;
     padding: 4px;
+    border-radius: $borderRadius;
   }
 }
 
@@ -46,6 +48,11 @@ button {
   font-size: 14px;
   background: $accentColor;
   border: none;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   cursor: pointer;
+}
+
+label {
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
 }
