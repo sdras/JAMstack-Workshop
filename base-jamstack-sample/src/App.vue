@@ -2,15 +2,18 @@
   <div id="app">
     <app-nav />
     <router-view />
+    <app-footer />
   </div>
 </template>
 
 <script>
 import AppNav from "@/components/AppNav.vue";
+import AppFooter from "@/components/AppFooter.vue";
 
 export default {
   components: {
-    AppNav
+    AppNav,
+    AppFooter
   }
 };
 </script>
@@ -36,6 +39,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }
 
 main {

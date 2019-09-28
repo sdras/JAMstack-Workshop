@@ -4,13 +4,13 @@
     <p>All materials &copy; 2019</p>
     <div class="social-links">
       <a :href="`https://twitter.com/${twitter}`" name="twitter">
-        <icon-twitter width="40" height="40" />
-      </a>
+        <icon-twitter width="20" height="20" />
+      </a>&nbsp;
       <a :href="`https://github.com/${github}`" name="github">
-        <icon-github width="40" height="40" />
-      </a>
+        <icon-github width="20" height="20" />
+      </a>&nbsp;
       <a :href="`https://codepen.io/${codepen}`" name="codepen">
-        <icon-codepen width="40" height="40" />
+        <icon-codepen width="20" height="20" />
       </a>
     </div>
   </footer>
