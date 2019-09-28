@@ -13,6 +13,7 @@ Author: Sarah Drasner
   - [Docs: Rollbacks](https://url.netlify.com/ry-qgMsvB)
 - [Section 3: Functions](https://slides.com/sdrasner/jamstack-netlify-3/)
   - [Docs: Functions](https://url.netlify.com/B1cAxMovB)
+  - [Repo: Simplest Netlify Lambda Example](https://github.com/sdras/easiest-netlify-lambda-example)
 - [Section 4: Identity](https://slides.com/sdrasner/jamstack-netlify-4/)
   - [Docs: Visitor Access Control](https://url.netlify.com/rkc1KITDr)
   - [Docs: Identity](https://url.netlify.com/SkgLFIpwS)
