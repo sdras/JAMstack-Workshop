@@ -14,6 +14,10 @@ Author: Sarah Drasner
 - [Section 3: Functions](https://slides.com/sdrasner/jamstack-netlify-3/)
   - [Docs: Functions](https://url.netlify.com/B1cAxMovB)
 - [Section 4: Identity](https://slides.com/sdrasner/jamstack-netlify-4/)
+  - [Docs: Visitor Access Control](https://url.netlify.com/rkc1KITDr)
+  - [Docs: Identity](https://url.netlify.com/SkgLFIpwS)
+  - [Repo: Netlify Identity Widget](https://github.com/netlify/netlify-identity-widget)
+  - [Demo: Netlify Identity Widget](https://identity.netlify.com)
 
 ## Resources in this repo
 
