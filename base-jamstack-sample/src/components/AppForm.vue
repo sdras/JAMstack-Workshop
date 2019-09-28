@@ -1,21 +1,19 @@
 <template>
   <div>
-    <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+    <form name="contact" method="POST">
+      <!--add some things here to make it work with Netlify-->
       <p class="visually-hidden">
-        <label>
-          Don’t fill this out if you're human:
-          <input name="bot-field" />
-        </label>
+        <!--add something here to catch the bots!-->
       </p>
       <p>
         <label>
-          Email:
+          Email
           <input type="text" name="email" />
         </label>
       </p>
       <p>
         <label>
-          Message:
+          Message
           <textarea name="message"></textarea>
         </label>
       </p>
@@ -31,4 +29,12 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
+button {
+  width: 100%;
+}
+
+label,
+button {
+  margin-top: 20px;
+}
 </style>
