@@ -16,6 +16,10 @@ html {
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
 }
@@ -27,6 +31,11 @@ body {
   text-align: center;
   color: #222;
 }
+
+main {
+  display: block;
+}
+
 #nav {
   padding: 30px;
   a {
