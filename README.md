@@ -19,10 +19,15 @@ Author: Sarah Drasner
   - [Docs: Identity](https://url.netlify.com/SkgLFIpwS)
   - [Repo: Netlify Identity Widget](https://github.com/netlify/netlify-identity-widget)
   - [Demo: Netlify Identity Widget](https://identity.netlify.com)
+- Section 5: Forms
+  - [Docs: Forms](https://url.netlify.com/SyrHVupwS)
+  - [Vue-specific Guide](https://url.netlify.com/BJ43V_TvB)
+- **Last Exercise**: We'll make our own professional portfolios by creating a JAMstack site!
 
 ## Resources in this repo
 
 - simple-html-drop
+- base-jamstack-example
 
 ## External resources
 
