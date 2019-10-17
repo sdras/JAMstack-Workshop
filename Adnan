@@ -1,0 +1,34 @@
+Static site generators are a cornerstone of the JAMstack — essential learning for anyone looking to build modern sites and apps that are fast, secure, scalable, and efficient to maintain.
+
+But there are lots to choose from — Jekyll, Gatsby, and Hugo, to name a few — and you may wonder about their limitations. This workshop will answer your questions, give you plans and strategies for future projects, and leave you with a fully-functioning static-generated site that’s capable of more than you might have expected.
+
+When and where
+All workshops wiil take place at Tobacco Dock, London
+
+9:30am - Doors and coffee
+10:00am - Morning session
+12:00pm - Lunch
+1:15pm - Afternoon session
+5:00pm - Workshop ends
+What you’ll learn:
+In this hands-on workshop, you’ll get an introduction to the static site generator landscape, and apply what you learn by building a site and extending its capabilities in class. We’ll cover:
+
+How static site generators work, and how they came to be.
+Comparison of popular generators, with guidelines for choosing one for your next project.
+Building, deploying, and modifying your own statically generated site, including template editing and custom post types.
+Adding content management with open source Netlify CMS.
+Possibilities for adding other not-so-static features, like comments, contact forms, internationalization, and more.
+Target Audience
+Great for people who are relatively new to the JAMstack, including:
+
+Developers coming from monolithic systems, like WordPress, Drupal, or Ruby on Rails.
+People who may work with web code as an auxiliary part of their job, like designers, documentarians, data scientists, and digital marketers.
+New coders and students.
+Attendees should be able to read and edit basic HTML and CSS. Experience with JavaScript, markdown, and Git are helpful, but not strictly required. As long as you’re open to trying new things, I’m happy to help you along!
+
+Requirements
+Please bring a laptop and charger so you can follow along with the exercises. The laptop should have the following installed:
+
+A text editor. I’ll be using VS Code, which is free and available for Windows, Mac, and Linux.
+A terminal program with Git. Most Mac and Linux computers have this preinstalled. For Windows, run the Git for Windows installer with the default options, and you’ll be set.
+Node.js version 10 or above. You can download the installer at nodejs.org.
